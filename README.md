@@ -55,6 +55,3 @@ O sistema simula uma base de dados para uma empresa que realiza **vendas de carr
 
 Este projeto é livre para estudo e uso acadêmico.
 
----
-
-> 📎 Para mais detalhes, consulte o arquivo [`.docx`](./vendas%20carros%20de%20luxo%20
