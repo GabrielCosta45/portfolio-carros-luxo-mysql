@@ -1,10 +1,11 @@
+
 # 🚗 Portfólio SQL: Sistema de Vendas de Carros de Luxo
 
 Este projeto foi desenvolvido com o objetivo de aplicar e demonstrar conhecimentos em modelagem de banco de dados, criação de tabelas, views, procedures, funções, triggers, controle de transações e permissões de acesso utilizando **MySQL**.
 
 O sistema simula uma base de dados para uma empresa que realiza **vendas de carros de luxo**, contendo informações sobre marcas, produtos, vendedores, e vendas realizadas.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,7 +23,7 @@ O sistema simula uma base de dados para uma empresa que realiza **vendas de carr
 - `vendas carros de luxo - Gabriel Costa.docx`  
   Documento complementar com explicações, organização do projeto e detalhes teóricos.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Funcionalidades Demonstradas
 
@@ -41,7 +42,7 @@ O sistema simula uma base de dados para uma empresa que realiza **vendas de carr
 - Controle de acesso (usuários com permissões específicas)
 - Controle de transações com `SAVEPOINT`, `ROLLBACK` e `COMMIT`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧑‍💻 Desenvolvido por
 
